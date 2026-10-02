@@ -7,4 +7,8 @@
 # Usage: ./lab3e.py
 
 # Follow the specific instructions given in the README.md file
+students=["Ama", "Elina", "Maija", "Daniel", "Ibrahim"]
+students[1]="Maggy"
+for student in students:
+    print(student)
 

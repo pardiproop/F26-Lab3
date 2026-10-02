@@ -14,6 +14,3 @@ mylist.pop(2)
 print(mylist)
 mylist.index(5)
 print("The element 6 is present at the index", mylist.index)
-
-
-

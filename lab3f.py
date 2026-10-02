@@ -29,7 +29,7 @@ for i in matrix:
     print(i)
 
 element = matrix[2][2]  # Output: 9
-print("The element in the second row and first column is ",matrix[0][1])
+print("The element in the second row and second column is ",matrix[2][2])
 for i in matrix:
     print(i)
 
