@@ -14,10 +14,27 @@ matrix = [
 ]
 
 element = matrix[1][2]  # Output: 6
+print("The element in the second row and column is ",matrix[1][2])
+for i in matrix:
+    print(i)
+
+element = matrix[1][1]  # Output: 5
 print("The element in the second row and column is ",matrix[1][1])
+for i in matrix:
+    print(i)
+
+element = matrix[0][1]  # Output: 2
+print("The element in the first row and second column is ",matrix[0][1])
+for i in matrix:
+    print(i)
+
+element = matrix[2][2]  # Output: 9
+print("The element in the second row and first column is ",matrix[0][1])
 for i in matrix:
     print(i)
 
 for i in range(3):
     print(matrix[i])
+
+print()
 
