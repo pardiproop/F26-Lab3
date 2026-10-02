@@ -7,4 +7,9 @@
 # Usage: ./lab3g.py
 
 # Follow the specific instructions given in the README.md file
-
+numbers=[]
+while(numbers)<=6:
+    num=input("Enter Any Number: ")
+for i in range(numbers):
+    number[i]*10
+print(numbers)
