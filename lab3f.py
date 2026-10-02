@@ -37,4 +37,3 @@ for i in range(3):
     print(matrix[i])
 
 print()
-
