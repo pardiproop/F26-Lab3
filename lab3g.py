@@ -11,5 +11,5 @@ numbers=[]
 while(numbers)<=6:
     num=input("Enter Any Number: ")
 for i in range(numbers):
-    number[i]*10
+    numbers[i]*10
 print(numbers)
