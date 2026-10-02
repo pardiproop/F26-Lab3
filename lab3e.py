@@ -11,4 +11,3 @@ students=["Ama", "Elina", "Maija", "Daniel", "Ibrahim"]
 students[1]="Maggy"
 for student in students:
     print(student)
-
